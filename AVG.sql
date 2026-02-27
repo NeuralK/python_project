@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM untitled_table_4;
