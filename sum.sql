@@ -1,0 +1,1 @@
+SELECT SUM(age) FROM untitled_table_4;
